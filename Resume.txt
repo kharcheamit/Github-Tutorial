@@ -2,3 +2,4 @@ Name: Amit Kharche
 Designation: Test Analyst
 Role: Testing
 Branch: in edit branch
+Skills: Selenium
