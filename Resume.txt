@@ -2,3 +2,6 @@ Name: Amit Kharche
 Designation: Test Analyst
 Role: Testing
 Organization: Bitwise
+Branch: in edit branch
+Skills: Selenium
+
